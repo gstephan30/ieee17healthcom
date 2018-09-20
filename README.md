@@ -3,7 +3,7 @@
 In collaboration with [https://github.com/stoikkanen](https://github.com/stoikkanen)
 
 
-URL : [URL](https://ieeexplore.ieee.org/abstract/document/8210764/)
+Paper : [URL](https://ieeexplore.ieee.org/abstract/document/8210764/)
 
 URL 2 webpage : [URL](https://stephang.netlify.com/publication/ieee-inpdr/)
 
